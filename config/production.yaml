@@ -1,0 +1,5 @@
+database:
+  url: mysql://canyonslatew_rw:8RSPpSxr2krQMctXQxNBTHpDRQci@canyonslatew-db.u217zouga91l.us-west-2.rds.amazonaws.com:3306/canyonslatew
+  pool: 10
+cache:
+  ttl_seconds: 300
